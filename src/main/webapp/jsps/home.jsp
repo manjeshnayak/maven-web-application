@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Manjesh Technologies. Marathahalli,Bengaluru,Karnataka,India </h1>
+<h1 align="center">Welcome to Manjesh Nayak Technologies. Marathahalli,Bengaluru,Karnataka,India </h1>
 <h1 align="center"> Manjesh Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scenarios</h1>
 <hr>
 <br>
