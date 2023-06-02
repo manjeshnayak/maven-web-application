@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus-releases</id>
 	      <name>Manjesh Snapshot Nexus Repository </name>
-	      <url>http://54.226.214.116:8081/repository/wallmart-snapshot</url>
+	      <url>http://54.226.214.116:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
